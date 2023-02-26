@@ -31,7 +31,7 @@ service_invoice
 This table stores information about each service invoice generated for services performed on a car. It includes the invoice's ID, service ticket ID, 
 part ID, invoice date, and amount charged.
 ER Diagram
-A visual representation of the relationships between these tables can be found in the ERD.png file in this repository.
+A visual representation of the relationships between these tables can be found in the ERD.png or ERD Car Dealership-dbdesigner.pdf file in this repository.
 Additional Information
 This database design is based on the following business rules:
 * A salesperson may sell many cars, but each car is sold by only one salesperson.
